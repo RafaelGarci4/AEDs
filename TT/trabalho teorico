@@ -1,0 +1,81 @@
+	Nocoes de complexidade
+
+
+	Exercicio (1)
+
+	a)2^0=1
+	b)2^1=2
+	c)2^2=4
+	d)2^3=8
+	e)2^4=16
+	f)2^5=32
+	g)2^6=64
+	h)2^7=128
+	i)2^8=256
+	j)2^9=512
+	k)2^10=1024
+	l)2^11=2048
+	
+	Exercicio (2)
+	
+	a)lg(2048)=11 
+	b)lg(1024)=10 
+	c)lg(512)=9
+	d)lg(256)=8
+	e)lg(128)=7
+	f)lg(64)=6
+	g)lg(32)=5
+	h)lg(16)=4
+	i)lg(8)=3
+	j)lg(4)=2
+	k)lg(2)=1
+	l)lg(1)=0
+	
+	Exercicio (3)
+	
+	a)teto 4,01 =  5.0 
+	b)piso 4,01 =  4.0
+	c)teto 4,99 =  5.0
+	d)piso 4,99 =  4.0
+	e)teto lg(16) = 4.0
+	f)piso lg(16) = 4.0
+	g)     lg(17) = 4.08
+	h)teto lg(17) = 5.0
+	i)piso lg(17) = 4.0
+	j)     lg(15) = 3.90
+	k)teto lg(15) = 4.0
+	l)piso lg(15) = 3.0
+	
+	Exercicio (4)
+	
+	
+	Agenda
+	
+	Exercicio Resolvido (1) = 3
+	Exercicio Resolvido (2) = melhor caso 3 / pior caso 5
+	Exercicio Resolvido (3) = melhor caso 5 / pior caso 7
+	Exercicio Resolvido (4) = 4
+	Exercicio Resolvido (5) = 2n
+	Exercicio Resolvido (6) = 3	
+	Exercicio Resolvido (7) = 3-n
+	
+	Exercicio (5) = 4
+	Exercicio (6) = 7
+	Exercicio (7) = 8
+	
+	Exercicio Resolvido (8) = 6
+
+	exercicio (8) =n^2
+	exercicio (9) =1+7 = 8
+	exercicio (10)=1 x n-3 x n = n^2-3n
+	Exercicio (11)= n^2-7n
+	Exercicio (12)= lg(n) +1
+	Exercicio (13)= numero de bits - 4
+	Exercicio (14) = n^2 -7n-49
+	
+	Exercicio Resolvido (9) =lg(n)+1
+	
+	
+	
+	
+	

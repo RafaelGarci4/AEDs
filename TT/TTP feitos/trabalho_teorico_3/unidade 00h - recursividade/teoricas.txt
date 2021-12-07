@@ -1,0 +1,15 @@
+Exercicios teoricos respondidos
+
+q01a)
+
+A chamada recursiva esta em "fat (n -1);" e em "fib (n-1) + fib (n-2);" e suas condicoes de parada sao "if(n == 1)" e "if(n==0 || n == 1)"
+
+
+q28a) "Por que o código abaixo imprime 2, 1, 0, 0, 1 e 2?"
+
+Enquanto condicao de parada ainda se mostrar verdadeira ele ira printar a sequencia presente no enunciado 
+
+
+q63a) "• Por que o código abaixo imprime 2, 1, 0, 0, 1 e 2?"
+
+pois ao se considerar que cada chamada e um metodo diferente teremos a ordem do enunciado.

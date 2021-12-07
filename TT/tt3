@@ -1,0 +1,44 @@
+Exercicios unidade - 00b 
+
+
+O que o codigo abaixo faz ? :
+
+RESP : O codigo abaixo recebe um caractere de tipo CHAR em um type casting para INT e atribui esse valor 
+a variavel V e com o falor de V checa pela tabela ascii se o caractere e uma vogal tanto maiuscula quanto
+minuscula e se se sim retorna um valor booleano de valor TRUE se nao retorna FALSE.
+
+-//-
+
+Qual sua opnicao sobre o codigo REAL abaixo ?
+
+Acredito que o codigo deva ter a melhor legibilidade possivel isso significa : Funcoes e variaveis o mais descritivas 
+possiveis independente do tamanho, comentarios para melhorar o entendimento sobre oque esta ocorrendo no cogigo.
+
+-//-
+
+Qual e a diferenca entre os dois metodos abaixo ? :
+
+o decremento apos a variavel te da o valor da variavel depois diminui em 1 o valor, o decremento antes da variavel diminui 1
+antes de te dar o valor logo uma variavel i com o valor de 5 no primeiro caso exibiria 5 depois se tornaria 4 e no segundo caso
+te retornaria 4.
+
+-//-
+
+O que o programa abaixo mostra na tela ? :
+
+Enquanto a condicao for verdadeira ela ira mostrar o crescimento de 1 em 1 das variaveis declaradas no print
+
+-//-
+
+Por que o codigo abaixo imprime [46-11] ? :
+
+Isso ocorre pelo deslocamento de bits tanto para esquerda quanto para a direita , na pratica uma divisao e uma multiplicacao por 2
+logo 23 x 2 = 46 e 23/2 = 11.5 porem como nosso tipo de dado e um inteiro apenas 11.
+
+-//-
+
+
+Exercicio unidade - 00f
+
+
+

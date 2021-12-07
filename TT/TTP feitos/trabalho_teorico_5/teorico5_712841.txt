@@ -1,0 +1,175 @@
+Rafael Ferreira Garcia Almeida 712841
+Trabalho Teorico 5
+
+
+ (1) : Qual é a diferença entre as notações O, Ω e 𝚯?
+
+Respostas:
+O (n)  e o simbolo utilizado para representar o limite superior. Θ (n) e o simbolo utilizado para representar limite estreito. Ω (n) e o simbolo utilizado para representa o limite inferior.
+Big "O" representa o pior caso de um algoritmo, ou seja, o caso mais caro ou que requer mais processamento.O Big "Omega" é o melhor caso que aquilo executará,ou seja, o caso mais barato ou que requer apenas o processamento minimo.O Big "Theta" quer saber a complexidade média de execução ou apenas o processamento necessario.
+
+
+~//~
+
+
+
+Respostas:
+
+E.R (1) 
+
+Resp = 
+O(1) Ω(1) 𝚯(1)
+___________________
+E.R (2) 
+
+Resp = 
+O(1) Ω(1) 𝚯(1)
+___________________
+E.R (3) 
+
+Resp = 
+O(1) Ω(1) 𝚯(1)
+___________________
+E.R (4) 
+
+Resp = 
+O(1) Ω(1) 𝚯(1)
+___________________
+E.R (5) 
+
+Resp = 
+O(n) Ω(n) 𝚯(n)
+___________________
+E.R (6) 
+
+Resp = 
+O(1) Ω(1) 𝚯(1)
+___________________
+E.R (7) 
+
+Resp = 
+O(n) Ω(n) 𝚯(n)
+___________________
+~//~
+
+Exercício (5) 
+
+Resp = 
+O(1) Ω(1) 𝚯(1)
+___________________
+Exercício (6) 
+
+Resp = 
+O(1) Ω(1) 𝚯(1)
+___________________
+Exercício (7) 
+
+Resp = 
+O(1) Ω(1) 𝚯(1)
+___________________
+E.R (8) 
+
+Resp = 
+O(1) Ω(1) 𝚯(1)
+___________________
+Exercício (8) 
+
+Resp = 
+O(n²) Ω(n²) 𝚯(n²)
+___________________
+Exercício (9) 
+
+Resp = 
+O(1) Ω(1) 𝚯(1)
+___________________
+Exercício (10) 
+
+Resp = 
+O(n²) Ω(n²) 𝚯(n²)
+___________________
+Exercício (11) 
+
+Resp = 
+O(n²) Ω(n²) 𝚯(n²)
+___________________
+Exercício (12) 
+
+Resp = 
+O(lg(n)) Ω(lg(n)) 𝚯(lg(n)) 
+___________________
+Exercício (13) 
+
+Resp = 
+O(nB) Ω(nB) 𝚯(nB)
+___________________
+Exercício (14) 
+
+Resp = 
+O(n²) Ω(n²) 𝚯(n²)
+___________________
+~//~
+
+E.R (9) 
+
+Resp = 
+O(lg(n)) Ω(lg(n)) 𝚯(lg(n))
+___________________
+Exercício (15) 
+
+Resp = 
+O(lg(n)) Ω(lg(n)) 𝚯(lg(n))
+___________________
+Exercício (16) 
+
+Resp = 
+O(lg(n)) Ω(lg(n)) 𝚯(lg(n))
+___________________
+Exercício (17) 
+
+Resp = 
+O(lg(n)) Ω(lg(n)) 𝚯(lg(n))
+___________________
+Exercício (18) 
+
+Resp = 
+O(lg(n)) Ω(lg(n)) 𝚯(lg(n))
+___________________
+~//~
+
+E.R (10):   
+
+a) 
+
+Resp = 
+O(n²) Ω(n²) 𝚯(n²)
+___________________
+b) 
+
+Resp = 
+O(n³) Ω(n³) 𝚯(n³)
+___________________
+c) 
+
+Resp = 
+O(n) Ω(n) 𝚯(n)
+___________________
+d) 
+
+Resp = 
+O(n³) Ω(n³) 𝚯(n³)
+___________________
+e) 
+
+Resp = 
+O(n⁴) Ω(n⁴) 𝚯(n⁴)
+___________________
+f) 
+
+Resp = 
+O(lg(n)) Ω(lg(n)) 𝚯(lg(n)) 
+___________________                          
+E.R (11) 
+
+Resp = 
+O(n) Ω(n) 𝚯(n)
+___________________
